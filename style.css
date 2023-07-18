@@ -44,27 +44,27 @@ p{
     margin-top: 10px;
 }
 .top-section{
-    background-image: url(/Img/header-bg.png);
+    background-image: url(Img/header-bg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 550px;
 
 }
 .baiography-section{
-    background-image: url(/Img/biography-bg.png);
+    background-image: url(Img/biography-bg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 550px;
 }
 /* work-section start */
 .work-section{
-    background-image: url(/Img/latest-work-bg.png);
+    background-image: url(Img/latest-work-bg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 550px;
 }
 .footer-section{
-    background-image: url(/Img/footer-bg.png);
+    background-image: url(Img/footer-bg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 550px;
